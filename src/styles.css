@@ -1,0 +1,6 @@
+/* Latent Space design system. Split by area; see src/styles/. */
+@import './styles/base.css';
+@import './styles/sections-a.css';
+@import './styles/projects.css';
+@import './styles/sections-b.css';
+@import './styles/modal-responsive.css';
